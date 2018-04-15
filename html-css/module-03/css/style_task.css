@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700,700i&subset=cyrillic');
+.task {
+  text-align: center;
+}
+.task img {
+  vertical-align: middle;
+}
+.airbase {
+  margin: 100; padding: 100;
+  }
+.airbase li{
+display: inline-block;
+border: black solid 1px;
+}
+.airbase {
+  font-size: 26px;
+}
+.airbase {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+a {
+  color: #cccccc;
+  }
+ a:visited {
+  color: #d80d0d;
+  text-decoration:line-through;
+  font-size: 50px;
+ } 
+ a:hover {
+  color: #800000;
+  /*text-decoration: none;*/
+ }
+ #lifestyle {
+  text-align: center;
+ }
+ .wrapper {
+  width: 470px;
+  margin: 0 auto;
+  text-align: justify;
+ }
+ .lifestyle {
+   color: aqua;
+ }
+ h2 {
+   font-size: 26px;
+   color: #141418b0;
+   width: 470px;
+   margin: 0 auto;
+   text-align: justify;
+ }

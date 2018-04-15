@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,700i,900');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400');
+
+main, header{
+    margin: 0% auto;
+    width: 900px;
+    text-align: center;
+}
+
+.nav_main ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0% 50px;
+    font-family: 'PlayFair Displey', serif;
+    text-transform: uppercase;
+    color: #626262;
+    margin-bottom: 70px;
+    }  
+
+.nav_main ul li a:hover{
+        color: #03a9f4;
+}
+
+.nav_main ul li a{
+        color: #626262;
+        text-decoration: none;
+}
+ 
+article{
+    width: 420px;
+    display: inline-block;
+    text-align: justify;
+    }
+
+h2{
+    text-align: left;
+}   
+
+.second_column{
+    margin-left: 56px;
+}
+
+p, h2, .button{
+    color: #626262;
+}
+
+.category{
+    font-family: 'Ubuntu', sans-serif;
+    color: #b4ad9e;
+    text-transform: uppercase;
+}
+
+.button {
+    margin: 0% auto;
+    width: 100px;
+    height: 20;
+    padding: 10px;
+    text-align: center;
+    margin-top: 35px;
+    border: 1px solid #626262;
+}
