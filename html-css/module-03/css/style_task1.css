@@ -29,7 +29,7 @@ main, header{
 
 .one_column, p, h2{
     margin: 0% auto;
-    width: 470px;
+    width: 420px;
     /*display: inline-block;*/
     text-align: justify;
     padding-bottom: 10px;
@@ -45,6 +45,7 @@ article{
     width: 420px;
     display: inline-block;
     text-align: justify;
+    color: #626262;
     }
 
 .two_column{
