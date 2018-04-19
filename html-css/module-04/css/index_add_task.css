@@ -1,0 +1,27 @@
+h1, .h21, h22{
+    text-align: center;
+    color: rgb(59, 58, 58);
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.task {
+    display: block;
+    margin: 0 auto;
+}
+ul, li, .task1{
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+    float: left;
+}
+a {
+    list-style: none;
+    text-decoration: none;
+}
+.clearfix:after {
+	content		: ".";
+	visibility	: hidden;
+	display		: block;
+	height		: 0;
+	clear		: both;
+}

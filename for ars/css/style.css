@@ -1,0 +1,18 @@
+*{
+    font-family: sans-serif;
+    color: rgb(56, 55, 55);
+    font-size: 24px;
+}
+.d1{
+    color: rgb(185, 165, 46);
+}
+.d0{
+    color: midnightblue;
+}   
+
+h2 {
+    text-align: center;
+    }
+li, a {
+    text-decoration: none;
+
