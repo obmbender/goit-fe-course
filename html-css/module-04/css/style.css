@@ -85,6 +85,11 @@ h1::after {
     float: left;
     margin-left: 30px;
 }
+
+/*.d:not(:nth-last-child(-n+5) {
+    margin-top: 30px;
+}*/
+
 .undrimg {
     margin-top: -4px;
 }
@@ -113,6 +118,10 @@ h1::after {
     color: #ffffff;
     font-weight: bold;
 }
+.d21, .d22, .d23, .d24 {
+    margin-top: 20px;
+}
+
 .d :hover{
     cursor: pointer;
 }
