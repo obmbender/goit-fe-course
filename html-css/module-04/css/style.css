@@ -69,11 +69,17 @@ h1::after {
     width: 165px;
     display: block;
     margin-left: 162px;
-    margin-bottom: 80px;
+    margin-bottom: 77px;
     margin-top: 20px;
 }
 
 .shop {
+    width: 1170px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.shop_item {
     width: 1170px;
     text-align: center;
     margin-top: 100px;
@@ -117,17 +123,17 @@ h1::after {
     color: #ffffff;
     font-weight: bold;
 }
-.d21, .d22, .d23, .d24 {
-    margin-top: 30px;
+.d1, .d2, .d3, .d4 {
+    margin-bottom: 30px;
 }
 
-.d :hover{
+q.d:hover{
     cursor: pointer;
 }
-.d :hover .name{
+.d:hover .name{
     background: #1abc9c;
 }
-.d :hover .price{
+.d:hover .price{
     background: #7fd9c7;
 }
 .clearfix::after{
@@ -149,11 +155,9 @@ h2 {
     font-family: 'Roboto', sans-serif;
     margin-top: 111px;
     margin-bottom: 50px;
-    /*position: relative;*/
 }
 
 h2::after {
-    /*position: absolute;*/
     content: "";
     background: #1abc9c;
     height: 7px;
@@ -184,7 +188,6 @@ h2::after {
     margin-bottom: 6px;
 }
 .news1::after {
-    /*position: absolute;*/
     content: "";
     background: #1abc9c;
     height: 3px;
