@@ -42,12 +42,17 @@ a {
     float: right;
 }
 
+.nav:first-child {
+    color: #1abc9c;
+}
 .clearfix::after{
     content: "";
     display: table;
     clear: both;
 }
+span{
 
+}
 h1 {
     width: 500px;
     margin: 0 auto;
@@ -90,10 +95,6 @@ h1::after {
     float: left;
     margin-left: 30px;
 }
-
-/*.d:not(:nth-of-type(4n+1)) {
-    margin-left: 30px;
-}*/
 
 .undrimg {
     margin-top: -4px;
