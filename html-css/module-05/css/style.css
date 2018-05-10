@@ -122,7 +122,7 @@ h1 {
     text-transform: uppercase;
     line-height: 82px;
     text-align: left;
-    }
+}
 
 .menu_link {
     font-family: Roboto light;
@@ -231,6 +231,7 @@ h2::after {
     border-width: 10px;
     border-color:  #ffffff;
     border-style: solid;
+    left: 10px;
     z-index: 1;
 }
  
